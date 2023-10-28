@@ -4,7 +4,7 @@
 /**
  * main - print argument number
  * @argc: argument count
- * @argv: srguments vector
+ * @argv: arguments vector
  * Return: 0
  */
 int main(int argc, char *argv[])
